@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Senuda Adihetty</h1>
 <h3 align="center">Qualified Information & Communication Technician NVQ IV</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senuda-adihetty&label=Profile%20views&color=0e75b6&style=flat" alt="senuda-adihetty" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=senuda-adihetty&label=Profile%20views&color=0e75b6&style=flat" alt="senuda-adihetty" /> </p>
 
 - 🌱 I’m currently learning **Frameworks**
 

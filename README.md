@@ -24,7 +24,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/smonster429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smonster429" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senuda damnidu karunarathne adihetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senuda damnidu karunarathne adihetty" height="30" width="40" /></a>

@@ -19,7 +19,7 @@
 <h3 align="center"> 
 <img align="center" width=30px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> I studied :</h3>
 <p align="center"> 
-<a href="https://en.wikipedia.org/wiki/St._Aloysius%27_College,_Galle" target="_blank" rel="noreferrer"> <img src="https://github.com/Senuda-Adihetty/skill-icons/blob/main/Aloysius%20light.svg" alt="Aloy" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/St._Aloysius%27_College,_Galle" target="_blank" rel="noreferrer"> <img src="https://github.com/Senuda-Adihetty/skill-icons/blob/main/Aloysius%20logoi.png" alt="Aloy" width="50" height="60"/> </a> <a href="https://course.vta.lk/" target="_blank" rel="noreferrer"> <img src="https://github.com/Senuda-Adihetty/skill-icons/blob/main/VTA.png" alt="VTA" width="75" height="72"/> </a> <a href="https://course.vta.lk/" target="_blank" rel="noreferrer"> <img src="https://github.com/Senuda-Adihetty/skill-icons/blob/main/COT%20Galle.png" alt="COT" width="90" height="70"/> </a>
 </p>
 
 <h3 align="center"> 

@@ -39,6 +39,7 @@
 <a href="https://www.linkedin.com/in/senuda-damnidu-karunarathne-adihetty-72152820b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senuda damnidu karunarathne adihetty" height="30" width="40" /></a>
 <a href="https://www.facebook.com/senux.Adihetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senuda damnidu k. adihetty" height="30" width="40" /></a>
 <a href="https://instagram.com/stylish_monster429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stylish_monster429" height="30" width="40" /></a>
+<a href="070 5851814" target="blank"><img align="center" src="https://github.com/Senuda-Adihetty/skill-icons/blob/main/icons/WhatsApp.png" alt="stylish_monster429" height="30" width="40" /></a>
 </p>
 
 

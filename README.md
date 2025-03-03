@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Senuda Adihetty</h1>
 <h3 align="center">Qualified Information & Communication Technician NVQ IV</h3>
 
+
+<p align="center"><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=senuda-adihetty&label=Profile%20views&color=0e75b6&style=flat" alt="senuda-adihetty" /> </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>

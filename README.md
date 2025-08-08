@@ -51,4 +51,4 @@
   <a href="https://www.buymeacoffee.com/senudaadihetty"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="senudaadihetty" /></a>
 </p>
 
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a31a57f72f99b96fec62fa32068dbe538db04eda78be44af799992584dfc1d59/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646565707368696b68617961646176267468656d653d6461726b"><img alt="Current Streak" src="https://camo.githubusercontent.com/a31a57f72f99b96fec62fa32068dbe538db04eda78be44af799992584dfc1d59/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646565707368696b68617961646176267468656d653d6461726b" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Senuda-Adihetty&amp;theme=dark" style="max-width: 100%;"></a> </p>
+
